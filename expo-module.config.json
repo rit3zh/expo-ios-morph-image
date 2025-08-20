@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoiOSMorphImageModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.iosmorphimage.ExpoiOSMorphImageModule"]
+  }
+}
