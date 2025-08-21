@@ -3,8 +3,8 @@
   "compilerOptions": {
     "strict": true,
     "paths": {
-      "expo-ios-morph-image": ["../src/index"],
-      "expo-ios-morph-image/*": ["../src/*"]
+      "expo-ios-morph-symbol": ["../src/index"],
+      "expo-ios-morph-symbol/*": ["../src/*"]
     }
   }
 }
