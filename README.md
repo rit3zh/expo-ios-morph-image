@@ -38,7 +38,7 @@ yarn add expo-ios-morph-symbol
 ## 🔥 Usage
 
 ```tsx
-import { ExpoiOSMorphImageView } from "expo-ios-morph-symbol";
+import { MorphSfSymbolView } from "expo-ios-morph-symbol";
 
 export default function App() {
   const icons = [
@@ -48,7 +48,7 @@ export default function App() {
   ];
 
   return (
-    <ExpoiOSMorphImageView
+    <MorphSfSymbolView
       icons={icons}
       index={1} // current active icon
       morphingImageDuration={0.8}
